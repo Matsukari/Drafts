@@ -1,0 +1,1296 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m_shi",
+				"m_shield_sound"
+			],
+			[
+				"m_mete",
+				"m_meteor_destroy_sound"
+			],
+			[
+				"de",
+				"destroy_rect"
+			],
+			[
+				"destored",
+				"destroyed_status"
+			],
+			[
+				"destr",
+				"destroyed_status"
+			],
+			[
+				"des",
+				"destroy_clips"
+			],
+			[
+				"effect",
+				"destroyed_effect"
+			],
+			[
+				"Eff",
+				"Effect_Status"
+			],
+			[
+				"pla",
+				"played_objects"
+			],
+			[
+				"num",
+				"num_object_shared"
+			],
+			[
+				"obj",
+				"objects_shared"
+			],
+			[
+				"EFFECT",
+				"EFFECT_ON"
+			],
+			[
+				"any",
+				"any_meteor"
+			],
+			[
+				"m_me",
+				"m_meteors"
+			],
+			[
+				"mete",
+				"meteor_destroy_rect"
+			],
+			[
+				"boo",
+				"boost_rect"
+			],
+			[
+				"m_fo",
+				"m_forced_move"
+			],
+			[
+				"sho",
+				"shoot_speed"
+			],
+			[
+				"Text",
+				"Text_Type"
+			],
+			[
+				"coll",
+				"collider_circle"
+			],
+			[
+				"shoo",
+				"shooted_bullets"
+			],
+			[
+				"bul",
+				"bullets"
+			],
+			[
+				"m_pre",
+				"m_keypressed"
+			],
+			[
+				"player_bu",
+				"player_bullet"
+			],
+			[
+				"player",
+				"player_shoot_speed"
+			],
+			[
+				"_ship",
+				"_ship_type"
+			],
+			[
+				"sp",
+				"sprite_clips"
+			],
+			[
+				"cur",
+				"cur_replays"
+			],
+			[
+				"repla",
+				"cur_replays"
+			],
+			[
+				"shie",
+				"shield_animation"
+			],
+			[
+				"EFFE",
+				"EFFECT_OFF"
+			],
+			[
+				"m_ro",
+				"m_rotate_speed"
+			],
+			[
+				"last",
+				"last_update"
+			],
+			[
+				"move",
+				"move_speed"
+			],
+			[
+				"tex",
+				"texture"
+			],
+			[
+				"spri",
+				"m_spritesheet_texture"
+			],
+			[
+				"ship",
+				"ship_sprite_clips"
+			],
+			[
+				"text",
+				"text_line"
+			],
+			[
+				"AT_VEL",
+				"AT_VELY"
+			],
+			[
+				"AT_VE",
+				"AT_VELX"
+			],
+			[
+				"spr",
+				"m_spritesheet_texture"
+			],
+			[
+				"Load_",
+				"Load_Font"
+			],
+			[
+				"te",
+				"Text_Placing"
+			],
+			[
+				"text_c",
+				"text_column"
+			],
+			[
+				"m_font",
+				"m_font_message"
+			],
+			[
+				"fps_te",
+				"fps_text_color"
+			],
+			[
+				"load",
+				"Loaded"
+			],
+			[
+				"AT_ROT",
+				"AT_ROTATE_DELAY"
+			],
+			[
+				"fi",
+				"first_instanciated"
+			],
+			[
+				"is",
+				"is_instanciated"
+			],
+			[
+				"Mete",
+				"Meteor_File"
+			],
+			[
+				"m_rotate",
+				"m_rotate_speed"
+			],
+			[
+				"Center",
+				"Center_Y"
+			],
+			[
+				"alp",
+				"_alpha"
+			],
+			[
+				"sprite",
+				"sprite_wing"
+			],
+			[
+				"for",
+				"forced_move"
+			],
+			[
+				"Shi",
+				"Shift_Collider_Rect"
+			],
+			[
+				"mouse",
+				"mouse_y"
+			],
+			[
+				"dsT",
+				"dst_y"
+			],
+			[
+				"m_l",
+				"move_delay"
+			],
+			[
+				"las",
+				"last_move"
+			],
+			[
+				"render",
+				"rendering_screen_h"
+			],
+			[
+				"part",
+				"partial_sprite_ships"
+			],
+			[
+				"parts",
+				"parts_rect"
+			],
+			[
+				"angle",
+				"angle_direction"
+			],
+			[
+				"Update",
+				"Update_Attributes"
+			],
+			[
+				"read",
+				"read_rect"
+			],
+			[
+				"m_last",
+				"m_last_reload"
+			],
+			[
+				"m_",
+				"m_screen_state"
+			],
+			[
+				"scr",
+				"m_screen_state"
+			],
+			[
+				"m_is",
+				"m_is_running"
+			],
+			[
+				"Objet",
+				"Object_Loader"
+			],
+			[
+				"rendering",
+				"rendering_screen_h"
+			],
+			[
+				"rend",
+				"render_max_h"
+			],
+			[
+				"r_rot",
+				"r_rot_speed"
+			],
+			[
+				"ren",
+				"render_max_w"
+			],
+			[
+				"Get_Winod",
+				"Get_Window_H"
+			],
+			[
+				"randm",
+				"random_device"
+			],
+			[
+				"texture",
+				"Texture"
+			],
+			[
+				"render_max",
+				"render_max_w"
+			],
+			[
+				"screen",
+				"screen_w"
+			],
+			[
+				"r_ro",
+				"r_rot_speed"
+			],
+			[
+				"dis",
+				"distribute_pos"
+			],
+			[
+				"random",
+				"random_device"
+			],
+			[
+				"rota",
+				"rotate_delay"
+			],
+			[
+				"m_rota",
+				"m_rotate_delay"
+			],
+			[
+				"m_vel",
+				"m_velx"
+			],
+			[
+				"rotate",
+				"m_rotate_speed"
+			],
+			[
+				"Distance",
+				"Distance_Squared"
+			],
+			[
+				"accu",
+				"accumulated_velx"
+			],
+			[
+				"remain",
+				"remain_x"
+			],
+			[
+				"reamin",
+				"remain_x"
+			],
+			[
+				"decre",
+				"decrementor_y"
+			],
+			[
+				"decrem",
+				"decrementor_y"
+			],
+			[
+				"dec",
+				"decrementor_x"
+			],
+			[
+				"Ipn",
+				"Input_Sample"
+			],
+			[
+				"SC",
+				"SCREEN_STATE_MENUSCREEN"
+			],
+			[
+				"vel",
+				"vel_x"
+			],
+			[
+				"circle",
+				"circle1"
+			],
+			[
+				"colliding",
+				"colliding_dir"
+			],
+			[
+				"DIRE",
+				"DIRECTION_NOT_COLLIDED"
+			],
+			[
+				"delta",
+				"delta_y"
+			],
+			[
+				"Tex",
+				"Text_Type"
+			],
+			[
+				"Te",
+				"Text_Type"
+			],
+			[
+				"Render",
+				"Render_Grid_Line"
+			],
+			[
+				"jump",
+				"jump_down"
+			],
+			[
+				"dpad",
+				"dpad_bottom"
+			],
+			[
+				"Charac",
+				"Character_ID"
+			],
+			[
+				"Collision",
+				"Collision_Check_Get_Position"
+			],
+			[
+				"REnder",
+				"Renderer"
+			],
+			[
+				"state",
+				"stateplace_index"
+			],
+			[
+				"str",
+				"strcmp"
+			],
+			[
+				"extr",
+				"extract_order"
+			],
+			[
+				"frame",
+				"frame_box"
+			],
+			[
+				"Check",
+				"Check_Quit"
+			],
+			[
+				"Rend",
+				"Render_Present"
+			],
+			[
+				"Error",
+				"errors"
+			],
+			[
+				"A",
+				"Attach_StringTo"
+			],
+			[
+				"Che",
+				"Check_DiagonalMoveHor"
+			],
+			[
+				"m_move",
+				"m_movekey2"
+			],
+			[
+				"LAST",
+				"LAST_FRAME"
+			],
+			[
+				"Destroy",
+				"DestroyFont"
+			],
+			[
+				"m_c",
+				"m_cuth"
+			],
+			[
+				"m_cu",
+				"m_cutw"
+			],
+			[
+				"SDL_FLIP",
+				"SDL_FLIP_NONE"
+			],
+			[
+				"ext",
+				"extracted"
+			],
+			[
+				"PLAYER",
+				"PLAYER_STAND"
+			],
+			[
+				"txture",
+				"textureparts"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Game_Projects/Angled Shooter/Makefile",
+			"settings":
+			{
+				"buffer_size": 1126,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Game_Projects/Angled Shooter/Code/Main/Game.h",
+			"settings":
+			{
+				"buffer_size": 19446,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Game_Projects/Angled Shooter/Code/Character.h",
+			"settings":
+			{
+				"buffer_size": 3436,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Game_Projects/Angled Shooter/Code/Ship.h",
+			"settings":
+			{
+				"buffer_size": 7081,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Game_Projects/Angled Shooter/Code/Meteor.h",
+			"settings":
+			{
+				"buffer_size": 4597,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Game_Projects/Angled Shooter/Code/Effect.h",
+			"settings":
+			{
+				"buffer_size": 1941,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Game_Projects/Cache/Sample_04_Velocity.cpp",
+			"settings":
+			{
+				"buffer_size": 3603,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 172.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Game_Projects/Angled Shooter",
+		"/C/Game_Projects/Angled Shooter/Code",
+		"/C/Game_Projects/Angled Shooter/Code/Main",
+		"/C/Game_Projects/Cache"
+	],
+	"file_history":
+	[
+		"/C/Game_Projects/Cache/Makefile",
+		"/C/Game_Projects/Cache/Sample_04_Velocity.cpp",
+		"/C/Game_Projects/Cache/vectors.h",
+		"/C/Game_Projects/Cache/particle.h",
+		"/C/Game_Projects/Cache/vectors.cpp",
+		"/C/Game_Projects/Cache/particle.cpp",
+		"/C/Game_Projects/Angled Shooter/Test.cpp",
+		"/C/A_Programming/Python/Projects/Chapter1/Shmup.py",
+		"/C/A_Game_Art/Mine/Topdown/sample_map.json",
+		"/C/Game_Projects/Angled Shooter/Code/Bullet.h",
+		"/C/A_Game_Art/Mine/Topdown/Tileset-0.tsx",
+		"/C/Game_Projects/C++_Engine/Base.h",
+		"/C/Game_Projects/Angled Shooter/Code/Meteor.h",
+		"/C/A_Programming/cc/SDL_Projects/Shooter/SourceCode/Main/Game.h",
+		"/C/Game_Projects/Angled Shooter/Configures/Ship_Atlas.txt",
+		"/C/Game_Projects/Angled Shooter/Makefile2",
+		"/C/Game_Projects/C++_Engine/Base.cpp",
+		"/C/A_Programming/Resources/game-master/src/core/player/events/screen.js",
+		"/C/A_Programming/Resources/game-master/src/core/player/events/item.js",
+		"/C/A_Programming/Resources/game-master/src/core/player/events.js",
+		"/C/A_Programming/cc/SDL_Projects/Shooter/SourceCode/Main/Object_Loader.h",
+		"/C/Game_Projects/C++_Engine/Graphics.cpp",
+		"/C/Game_Projects/Angled Shooter/Code/Main/Main.cpp",
+		"/C/Game_Projects/C++_Engine/sample_.cpp",
+		"/C/A_Programming/cc/SDL_Projects/Shooter/SourceCode/Main/test.cpp",
+		"/C/Game_Projects/Angled Shooter/Code/Main/Settings.h",
+		"/C/Game_Projects/Angled Shooter/Makefile",
+		"/C/Game_Projects/Angled Shooter/makefile-execute",
+		"/C/Game_Projects/C++_Engine/Makefile",
+		"/C/Game_Projects/C++_Engine/Graphics.h",
+		"/C/Game_Projects/C++_Engine/main.cpp",
+		"/C/Game_Projects/Angled Shooter/SourceCode/Main/Game.h",
+		"/C/Game_Projects/Angled Shooter/SourceCode/Main/Main.cpp",
+		"/C/Game_Projects/C++_Engine/Compiled/Base.o",
+		"/C/Game_Projects/Settings.h",
+		"/C/A_Programming/Resources/SDL_gfx-2.0.25/README",
+		"/C/A_Programming/Resources/SDL_gfx-2.0.25/SDL_gfxPrimitives.c",
+		"/C/A_Programming/Resources/SDL_gfx-2.0.25/SDL_gfxPrimitives.h",
+		"/C/Game_Projects/C++_Engine/SDL2-2.0.12/Makefile",
+		"/C/A_Programming/cc/SDL_Projects/Shooter/SourceCode/Drone.h",
+		"/C/A_Programming/cc/SDL_Projects/Shooter/SourceCode/Characters/Player.h",
+		"/C/A_Programming/cc/SDL_Projects/Shooter/SourceCode/Ship.h",
+		"/C/A_Programming/cc/SDL_Projects/Shooter/SourceCode/Bullet.h",
+		"/C/A_Programming/cc/SDL_Projects/Shooter/test.cpp",
+		"/C/A_Programming/cc/SDL_Projects/Shooter/SourceCode/Meteor.h",
+		"/C/A_Programming/cc/SDL_Projects/Shooter/SourceCode/Character.h",
+		"/C/A_Programming/cc/SDL_Projects/Shooter/SourceCode/Main/Settings.h",
+		"/C/A_Programming/cc/SDL_Projects/Shooter/makefile-execute",
+		"/C/A_Programming/cc/SDL_Projects/Shooter/makefile-object",
+		"/C/A_Programming/cc/SDL_Projects/Shooter/SourceCode/Engine/Base.h",
+		"/C/A_Programming/cc/SDL_Projects/Shooter/SourceCode/Engine/Base.cpp",
+		"/C/A_Programming/cc/SDL_Projects/Shooter/SourceCode/Engine/Graphics.h",
+		"/C/A_Programming/cc/SDL_Projects/Shooter/SourceCode/Engine/Graphics.cpp",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Engine/Map.h",
+		"/C/A_Programming/cc/SDL_Projects/Shooter/Ship.h",
+		"/C/A_Programming/cc/SDL_Projects/Shmup/makefile-object",
+		"/C/A_Programming/cc/SDL_Projects/Shooter/Main/Game.h",
+		"/C/A_Programming/cc/SDL_Projects/Shooter/Main/Object_Loader.h",
+		"/C/A_Programming/cc/SDL_Projects/Shooter/Main/Settings.h",
+		"/C/A_Programming/cc/SDL_Projects/Shmup/makefile-execute",
+		"/C/A_Programming/cc/SDL_Projects/Shooter/Meteor.h",
+		"/C/A_Programming/cc/SDL_Projects/Shmup/SourceCode/Engine/Graphics.h",
+		"/C/A_Programming/cc/SDL_Projects/Shmup/SourceCode/Engine/Base.h",
+		"/C/A_Programming/cc/SDL_Projects/Shmup/SourceCode/Engine/Base.cpp",
+		"/C/A_Programming/cc/SDL_Projects/Platformer.v.1/SourceCode/Main/Events.h",
+		"/C/A_Programming/cc/SDL_Projects/Shmup/SourceCode/Main/Event_Handler.h",
+		"/C/A_Programming/cc/SDL_Projects/Shmup/SourceCode/Main/Settings.h",
+		"/C/A_Programming/cc/SDL_Projects/Shmup/SourceCode/Engine/Graphics.cpp",
+		"/C/A_Programming/cc/SDL_Projects/Shmup/SourceCode/Main/Object_Loader.h",
+		"/C/MinGW/include/math.h",
+		"/C/A_Programming/SDL2-2.0.12/i686-w64-mingw32/include/SDL2/SDL_render.h",
+		"/C/A_Programming/SDL2-2.0.12/i686-w64-mingw32/include/SDL2/SDL_rect.h",
+		"/C/A_Programming/cc/SDL_Projects/Shmup/SourceCode/Ship.h",
+		"/C/A_Programming/SDL2-2.0.12/i686-w64-mingw32/include/SDL2/SDL.h",
+		"/C/A_Programming/cc/SDL_Projects/Shmup/SourceCode/Main/Main.cpp",
+		"/C/A_Programming/cc/SDL_Projects/Shmup/test.cpp",
+		"/C/A_Programming/cc/SDL_Projects/Shmup/SourceCode/Main/Configures.h",
+		"/C/A_Programming/cc/SDL_Projects/Shmup/SourceCode/Main/Events.h",
+		"/C/A_Programming/cc/SDL_Projects/Shmup/SourceCode/Main/Objects.h",
+		"/C/A_Programming/Python/Projects/Chapter2/sprites.py",
+		"/C/A_Programming/Resources/random-master/include/effolkronium/random.hpp",
+		"/C/A_Programming/cc/Dumps/SDL_Project.v.1/Ninja Village/Setting.h",
+		"/C/A_Programming/cc/Dumps/SDL_Project.v.1/Ninja Village/main.cpp",
+		"/C/A_Programming/cc/SDL_Projects/Shmup/SourceCode/Character.h",
+		"/C/A_Programming/cc/SDL_Projects/Shmup/SourceCode/Character.cpp",
+		"/C/A_Programming/cc/SDL_Projects/notes.cpp",
+		"/C/A_Programming/cc/SDL_Projects/Engine/makefile-execute",
+		"/C/A_Programming/cc/SDL_Projects/Engine/makefile-object",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Main/Game.h",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Main/Events.h",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Main/Objects.h",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Engine/Collision.cpp",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Engine/Collision.h",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Engine/Base.cpp",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Engine/Base.h",
+		"/C/A_Programming/Resources/SDL_gfx-2.0.25/SDL_rotozoom.h",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Engine/Graphics.h",
+		"/C/A_Programming/cc/ZOthers/olcPixelGameEngine/olcPixelGameEngine.h",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Engine/Miscellaneous.h",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Engine/Miscellaneous.cpp",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Main/Settings.h",
+		"/C/A_Programming/cc/SDL_Projects/Engine/makefile",
+		"/C/A_Programming/cc/SDL_Projects/Engine/test.cpp",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Engine/test.cpp",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Engine/Miscelaneous.cpp",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Engine/Helper_Functions.cpp",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Engine/Graphics.cpp",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Engine/Helper_Functions.h",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Engine/Draw_And_Transition.cpp",
+		"/C/A_Programming/cc/Dumps/SDL_Project.v.1/KnightAdventure/main.cpp",
+		"/C/A_Programming/cc/SDL_Projects/Platformer.v.1/SourceCode/Main/Objects.h",
+		"/C/A_Programming/cc/SDL_Projects/Platformer.v.1/SourceCode/Main/Render.h",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Engine/Character.h",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Engine/Character.cpp",
+		"/C/A_Programming/cc/SDL_Projects/Platformer.v.1/SourceCode/Engine/Collision.h",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Main/Main.cpp",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Main/Update.h",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Main/Render.h",
+		"/C/A_Programming/cc/SDL_Projects/Platformer.v.1/SourceCode/Engine/Game.cpp",
+		"/C/A_Programming/cc/SDL_Projects/Platformer.v.1/SourceCode/Engine/Game.h",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Engine/Texture.h",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Engine/Engine.h",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Engine/Engine.cpp",
+		"/C/A_Programming/cc/SDL_Projects/Platformer.v.1/SourceCode/Engine/Text.h",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Engine/Game.h",
+		"/C/A_Programming/cc/SDL_Projects/Engine/head.h",
+		"/C/A_Programming/cc/SDL_Projects/Engine/seepp.cpp",
+		"/C/A_Programming/cc/SDL_Projects/Engine/SourceCode/Engine/Texture.cpp"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"{\n",
+			"i",
+			"j",
+			"i",
+			", .h = ",
+			", .w = ",
+			", .y = ",
+			", .h = ",
+			", .w = ",
+			", .y = ",
+			"\", { .x = ",
+			"\",",
+			".value",
+			"m_level",
+			"ship_sprite",
+			"base_damage",
+			"bullets",
+			"health",
+			"level",
+			".y =",
+			".y",
+			", .y",
+			",",
+			"SDL_m_rect",
+			"rect",
+			"_m_rect",
+			"alpha",
+			"angle",
+			"vely",
+			"velx",
+			"SDL_Fm_rect",
+			"rect",
+			"window",
+			"spritesheet_texture",
+			"Window",
+			"Engine::Base::renderer",
+			"Base",
+			"circle",
+			"ellipe",
+			"ellipes",
+			"meteors[i].",
+			"meteors.",
+			"random_attr",
+			"attributes",
+			"m_rect",
+			"m_velysssssssssssssssssssssssssss",
+			"m_vely",
+			"m_velx",
+			"m_collider_rect",
+			"m_rect",
+			"m_ship_sprite",
+			"_Rect",
+			"Shift_Colliders",
+			"cosaaaaaaaaaaaaaaaaaaaaaa",
+			"sin()\n",
+			"sin\n",
+			".\n",
+			"sdl_frectasdddddddddd",
+			"sdl_frect",
+			"Settings",
+			"meteor",
+			"Inputs",
+			"Handle_Inputs",
+			"Objects",
+			", h",
+			" .h",
+			", w",
+			", y",
+			"y",
+			", x",
+			">",
+			"height",
+			"width",
+			"name = \"",
+			"name =\"",
+			"\"/>",
+			"\" height=\"",
+			"\" width=\"",
+			"y =\"",
+			"x=\"",
+			", x",
+			"\" y",
+			"=\"",
+			".png\"",
+			"<SubTexture",
+			"name",
+			"/>",
+			"height",
+			"width",
+			"y",
+			"=",
+			"x",
+			"<SubTexture name=\"",
+			";\n",
+			"this"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"any_meteor",
+			"any_bullet",
+			"meteor",
+			" h: ",
+			" w: ",
+			" y: ",
+			" y: =",
+			": h: ",
+			": w: ",
+			": y: ",
+			": x: ",
+			".speed",
+			"m_ship_sprite",
+			"m_base_damage",
+			"m_bullets",
+			"m_health",
+			"m_level",
+			"y",
+			" .y",
+			"",
+			"SDL_Rect",
+			"_rect",
+			"m_alpha",
+			"m_angle",
+			"m_vely",
+			"m_velx",
+			"SDL_FRect",
+			"m_rect",
+			"m_window",
+			"m_spritesheet_texture",
+			"Windowww",
+			"renderer",
+			"Window",
+			"meteors[i]->",
+			"meteors->",
+			"attr",
+			"random_attr",
+			"rect",
+			"vely",
+			"velx",
+			"collider_rect",
+			"rect",
+			"ship_sprite",
+			"_FRect",
+			"Shift_Collider_Rect",
+			"",
+			"Setting",
+			"meteors",
+			"Handle_Inputs",
+			"Event_Handler",
+			"Object_Loader",
+			", .h",
+			", .w",
+			", .y",
+			".y",
+			", { .x",
+			">",
+			"h",
+			"w",
+			"Partial_Sprite  name = \"",
+			"name = \"",
+			"",
+			", height = ",
+			", width = ",
+			"y = ",
+			"x = ",
+			"\", x",
+			", y ",
+			"= \"",
+			",",
+			"",
+			"name ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Game_Projects/Angled Shooter/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								395,
+								395
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Game_Projects/Angled Shooter/Code/Main/Game.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19446,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8529,
+								8535
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5518.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Game_Projects/Angled Shooter/Code/Character.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3436,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2058,
+								2058
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1792.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Game_Projects/Angled Shooter/Code/Ship.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7081,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3657,
+								3657
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2350.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Game_Projects/Angled Shooter/Code/Meteor.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2986,
+								2986
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2134.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Game_Projects/Angled Shooter/Code/Effect.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1941,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1264,
+								1264
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 810.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Game_Projects/Cache/Sample_04_Velocity.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1252.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 37.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Project_Structure.sublime-project",
+	"replace":
+	{
+		"height": 94.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\c++\\shitty_guides\\guide7.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 137.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,2 @@
+TITLE: Shooter!
+WINDOW_SIZE: 880 550

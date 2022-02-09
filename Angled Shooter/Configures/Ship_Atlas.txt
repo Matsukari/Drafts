@@ -1,0 +1,35 @@
+SPRITE_SHIP_ATLAS:
+
+playerShip1_green:      x: 237   y: 377   w: 99    h: 75
+playerShip1_orange:     x: 247   y: 84    w: 99    h: 75
+playerShip1_red:	x: 224   y: 832   w: 99    h: 75
+
+playerShip2_green:	x: 112   y: 866   w: 112   h: 75
+playerShip2_orange:	x: 112   y: 716   w: 112   h: 75
+playerShip2_red:	x: 0     y: 941   w: 112   h: 75
+
+enemyBlack1: 		x: 423   y: 728   w: 93    h: 84
+enemyBlack2: 		x: 120   y: 604   w: 104   h: 84
+enemyBlack3: 		x: 144   y: 156   w: 103   h: 84
+enemyBlack4: 		x: 518   y: 325   w: 82    h: 84
+enemyBlack5: 		x: 346   y: 150   w: 97    h: 84
+enemyBlue1: 		x: 425   y: 468   w: 93    h: 84
+enemyBlue2: 		x: 143   y: 293   w: 104   h: 84
+enemyBlue3: 		x: 222   y: 0     w: 103   h: 84
+enemyBlue4: 		x: 518   y: 409   w: 82    h: 84
+enemyBlue5: 		x: 421   y: 814   w: 97    h: 84
+enemyGreen1:		x: 425   y: 552   w: 93    h: 84
+enemyGreen2:		x: 133   y: 412   w: 104   h: 84
+enemyGreen3:		x: 224   y: 496   w: 103   h: 84
+enemyGreen4:		x: 518   y: 493   w: 82    h: 84
+enemyGreen5:		x: 408   y: 907   w: 97    h: 84
+enemyRed1:	 	x: 425   y: 384   w: 93    h: 84
+enemyRed2:	 	x: 120   y: 520   w: 104   h: 84
+enemyRed3:	 	x: 224   y: 580   w: 103   h: 84
+enemyRed4:	 	x: 520   y: 577   w: 82    h: 84
+enemyRed5:	 	x: 423   y: 644   w: 97    h: 84
+
+ufoBlue: 	 	x: 444   y: 91    w: 91    h: 91
+ufoGreen:	 	x: 434   y: 234   w: 91    h: 91
+ufoRed: 		x: 444   y: 0     w: 91    h: 91
+ufoYello: 	 	x: 505   y: 898   w: 91    h: 91
